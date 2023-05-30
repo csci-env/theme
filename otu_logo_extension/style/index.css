@@ -12,8 +12,9 @@ pre {
 }
 
 #jp-MainLogo {
-  background-image: url(./images/OTU_Logo_WhiteSpace_smaller.png);
+  background-image: url(./images/OTU_logo_words_92x28.png);
   background-repeat: no-repeat;
+  width: 100px;
 }
 
 #jp-MainLogo > svg {
@@ -21,7 +22,7 @@ pre {
 }
 
 #jp-RetroLogo {
-  background-image: url(./images/OTU_Logo_WhiteSpace_larger.png);
+  background-image: url(./images/OTU_logo_words_139x42.png);
   background-repeat: no-repeat;
 }
 
