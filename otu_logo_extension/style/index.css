@@ -29,3 +29,11 @@ pre {
 #jp-RetroLogo > svg {
   visibility: hidden;
 }
+
+div[title= 'Create a new Python file']{
+  display: none;
+}
+
+div[title= 'Create a new markdown file']{
+  display: none;
+}
