@@ -11,6 +11,7 @@ pre {
   line-height: var(--jp-code-line-height);
 }
 
+/* Code to change the logo to the Ontario Tech Logo */
 #jp-MainLogo {
   background-image: url(./images/OTU_logo_words_92x28.png);
   background-repeat: no-repeat;
@@ -30,6 +31,7 @@ pre {
   visibility: hidden;
 }
 
+/* Code to remove the python and markdown shorcut options in the launcher */
 div[title= 'Create a new Python file']{
   display: none;
 }
